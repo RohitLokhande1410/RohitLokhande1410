@@ -8,7 +8,7 @@ I'm a Data Analyst and Python Developer passionate about transforming raw data i
 - 🏥 **Medical Insurance Cost Prediction** – Deployed with Streamlit; predicts insurance costs using regression models.
 - 💰 **Expense Tracker App** – A Python-based app for tracking and visualizing personal finances.
 
-### 🛠️ Technologies I Work With
+
 ### 🛠️ Technologies I Work With
 
 <p align="left">
